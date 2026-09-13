@@ -5,6 +5,7 @@ Binary classification project predicting the presence of heart disease from pati
 Dataset
 
     Source: Heart Failure Prediction Dataset (Kaggle) Size: 918 rows, 12 columns Target: HeartDisease (1 = disease present, 0 = no disease)
+[Uploading heart.csv…]()
 
 How to Run
 
